@@ -1,4 +1,4 @@
-package org.example.digitsofnumbers;
+package digitsOfNumbers;
 
 import javax.sound.midi.Soundbank;
 
